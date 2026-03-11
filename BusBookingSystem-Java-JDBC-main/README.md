@@ -103,6 +103,7 @@ This project helps in understanding:
 
 ## Author
 
-**Pratik Shinde**
+**Vaibhav Patil*
 
 ---
+
